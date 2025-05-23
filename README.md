@@ -28,8 +28,11 @@ A full-stack chatbot application that answers queries using a Retrieval-Augmente
 - Jina AI API Key
 
 ## Demo
+![image](https://github.com/user-attachments/assets/4fdeb665-0b3b-4aa0-aba6-c797b00b83a1)
 
+![image](https://github.com/user-attachments/assets/13f6bfa9-939e-4eff-a12e-48e619860c99)
 
+![image](https://github.com/user-attachments/assets/3ebf96a0-4ea6-4cfc-9c05-a3c2e97ed591)
 
 ## Setup
 
