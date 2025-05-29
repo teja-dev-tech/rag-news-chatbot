@@ -6,7 +6,6 @@ A full-stack chatbot application that answers queries using a Retrieval-Augmente
 
 - **RAG Pipeline**: Ingest news articles, generate embeddings, and retrieve relevant context
 - **Session Management**: Each user gets a unique session with chat history
-- **Real-time Chat**: WebSocket-based chat interface with streaming responses
 - **Persistent Storage**: Redis for session management and chat history
 - **Modern UI**: Built with React and Tailwind CSS
 
